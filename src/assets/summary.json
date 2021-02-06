@@ -1,0 +1,9 @@
+[{"title":"Monthly Revenue", "value":94542,"color":"green", "isIncrease":true, "isCurrency":true,
+    "duration":"since last month", "percentageValue":20},
+{"title":"Average Order Value", "value":542,"color":"red", "isIncrease":false, "isCurrency":true,
+    "duration":"since last month", "percentageValue":10},
+{"title":"Average Order Value", "value":542,"color":"red", "isIncrease":false, "isCurrency":true,
+    "duration":"since last month", "percentageValue":10},
+{"title":"Average Order Value", "value":542,"color":"red", "isIncrease":false, "isCurrency":true,
+    "duration":"since last month", "percentageValue":10}
+]
